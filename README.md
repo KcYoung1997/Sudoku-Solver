@@ -5,5 +5,7 @@ A program developed by me for my advanced higher computing project. This program
 
 Credits
 =======
+
 -Keiran Young (Me, just incase there was any doubt)
+
 -No outside library's have been used other than those supplied in Microsofts .NET framework.
