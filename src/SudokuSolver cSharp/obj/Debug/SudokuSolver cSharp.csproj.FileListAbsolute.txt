@@ -1,0 +1,24 @@
+c:\users\keiran\documents\visual studio 2012\Projects\SudokuSolver cSharp\SudokuSolver cSharp\bin\Debug\SudokuSolver cSharp.exe.config
+c:\users\keiran\documents\visual studio 2012\Projects\SudokuSolver cSharp\SudokuSolver cSharp\bin\Debug\SudokuSolver cSharp.exe
+c:\users\keiran\documents\visual studio 2012\Projects\SudokuSolver cSharp\SudokuSolver cSharp\bin\Debug\SudokuSolver cSharp.pdb
+c:\users\keiran\documents\visual studio 2012\Projects\SudokuSolver cSharp\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.exe
+c:\users\keiran\documents\visual studio 2012\Projects\SudokuSolver cSharp\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.pdb
+c:\users\keiran\documents\visual studio 2012\Projects\SudokuSolver cSharp\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.csprojResolveAssemblyReference.cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp\SudokuSolver cSharp\obj\Debug\SudokuSolver_cSharp.Properties.Resources.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.csproj.GenerateResource.Cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - Copy\SudokuSolver cSharp\bin\Debug\SudokuSolver cSharp.exe.config
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - Copy\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - Copy\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - Copy\SudokuSolver cSharp\bin\Debug\SudokuSolver cSharp.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - Copy\SudokuSolver cSharp\bin\Debug\SudokuSolver cSharp.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - Copy\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.csprojResolveAssemblyReference.cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - Copy\SudokuSolver cSharp\obj\Debug\SudokuSolver_cSharp.Properties.Resources.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - Copy\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.csproj.GenerateResource.Cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - back\SudokuSolver cSharp\bin\Debug\SudokuSolver cSharp.exe.config
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - back\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - back\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - back\SudokuSolver cSharp\bin\Debug\SudokuSolver cSharp.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - back\SudokuSolver cSharp\bin\Debug\SudokuSolver cSharp.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - back\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.csprojResolveAssemblyReference.cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - back\SudokuSolver cSharp\obj\Debug\SudokuSolver_cSharp.Properties.Resources.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\SudokuSolver cSharp - back\SudokuSolver cSharp\obj\Debug\SudokuSolver cSharp.csproj.GenerateResource.Cache
